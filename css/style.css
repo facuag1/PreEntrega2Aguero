@@ -1,0 +1,15 @@
+.btn{
+    padding: 0.5rem 2rem;
+    transition: all;
+    transition-duration: 500ms;
+}
+
+.btn:hover{
+    scale: 1.025;
+    background-color: lightblue;
+    border: lightblue;
+}
+
+.card{
+    background-color: azure;
+}
